@@ -1,8 +1,8 @@
 {
-  "name": "team-task-manager",
+  "name": "backend",
   "version": "1.0.0",
+  "main": "server.js",
   "scripts": {
-    "build": "cd frontend && npm install && npm run build",
-    "start": "node backend/server.js"
+    "start": "node server.js"
   }
 }
