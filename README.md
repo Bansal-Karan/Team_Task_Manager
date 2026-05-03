@@ -54,7 +54,7 @@ A full-stack **Team Task Management Application** that allows teams to manage pr
 
 ### Database
 
-* MongoDB
+* MongoDB Atlas
 
 ---
 
@@ -83,15 +83,6 @@ A full-stack **Team Task Management Application** that allows teams to manage pr
 ```
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/team-task-manager.git
-cd team-task-manager
-```
 
 ### 2️⃣ Install dependencies
 
@@ -163,16 +154,6 @@ npm run dev
 ### Users
 
 * `GET /api/users`
-
----
-
-## 🚀 Deployment
-
-You can deploy the app using:
-
-* Railway (Backend + Frontend)
-* Render
-* Vercel (Frontend only)
 
 ---
 
